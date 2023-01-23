@@ -1,3 +1,3 @@
 def main():
-  print('hello python & git')
+  print('hello python & git rock')
 main()
